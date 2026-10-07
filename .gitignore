@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints & Cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDEs & Editors
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Models & Weights
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Logs & TensorBoard
+logs/
+*/logs/
+*.tfevents*
