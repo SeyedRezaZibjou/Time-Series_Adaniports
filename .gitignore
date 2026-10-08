@@ -31,3 +31,6 @@ Thumbs.db
 logs/
 */logs/
 *.tfevents*
+
+# Code Runner temporary files
+tempCodeRunnerFile*
